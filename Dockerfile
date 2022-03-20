@@ -10,4 +10,3 @@ RUN \
   rm -rf /var/lib/apt/lists/
 
 ENTRYPOINT [ "boinctui" ]
-CMD [ "--help" ]
